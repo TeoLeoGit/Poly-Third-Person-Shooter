@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ThirdPersonShooter_Override
+  m_Controller: {fileID: 9100000, guid: 6c22ae1e9aea4db47977366fea48c63c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b72596f3982e1a2419b1890ab8cda6cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1e659a48ed2d32b4e9d2dea95163b25c, type: 2}
